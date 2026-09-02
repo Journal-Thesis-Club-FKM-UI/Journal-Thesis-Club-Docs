@@ -11,9 +11,9 @@ date-modified: today
 
 # Teknis Pelaksanaan
 
-1.  Dipilih topik / tema bidang penelitian (contoh: health equity) berdasarkan minat masing-masing member. Kemudian topik bulanan dipilih dengan cara voting / di-spin. Tema / topik tersebut akan menjadi topik / tema journal bulan tersebut.
+1.  Pertama dipilih beberapa topik bidang penelitian (contoh: health equity, penyakit tidak menular, dsb.) berdasarkan minat masing-masing member. Kemudian topik-topik pilihan tersebut akan di-*spin* / di-*voting*. Topik yang terpilih akan menjadi topik journal pada bulan itu.
 
-2.  Setelah topik / tema bulanan dipilih, member dapat mulai mencari journal pilihan mereka, lihat bagian [Tips Pencarian Journal](#tips-pencarian-jurnal)
+2.  Setelah topik bulanan dipilih, member dapat mulai mencari journal pilihan mereka, lihat bagian [Tips Pencarian Journal](#tips-pencarian-jurnal)
 
     - Catatan: member yang ingin mengajukan paper pilihan mereka untuk dipresentasikan di meetup (sebagai paper bulanan yang didiskusikan) tentunya harus cukup paham paper tersebut, karena mereka yang akan mempresentasikan dan meng-trigger diskusi nanti.
 
@@ -23,7 +23,7 @@ date-modified: today
 
 5.  Pada saat meet-up bulanan, setiap member yang mengajukan paper mempresentasikan paper, dan kemudian didiskusikan bersama dengan semua member yang hadir.
 
-6.  Dalam diskusi paper, tentunya terdapat juga section limitation, existing gap, dan further research implication. Diharapkan setiap member yang presentasi dapat juga menyertakan section-section ini di presentasi, baik yang teridentifikasi dalam paper yang dibahas, atau berdasarkan sintesis atau kesimpulan masing-masing member yang presentasi. Hal ini diharapkan agar setiap pembahasan journal menghasilkan pertanyaan lebih lanjut bagi para member, yang nantinya dapat digunakan untuk topik tesis.
+6.  Dalam diskusi paper, tentunya terdapat juga *section limitation*, *existing gap*, dan further research implication. Diharapkan setiap member yang presentasi dapat juga menyertakan *section-section* ini di presentasi, baik yang teridentifikasi dalam paper yang dibahas, atau berdasarkan sintesis atau kesimpulan masing-masing member yang presentasi. Hal ini diharapkan agar setiap pembahasan journal menghasilkan pertanyaan lebih lanjut bagi para member, yang nantinya dapat digunakan untuk topik tesis.
 
 ## Kak, saya tidak presentasi bulan ini, saya ngapain aja pas meet-up? {#peran-peserta}
 
@@ -47,11 +47,11 @@ Kak, jurnal / ide tesis saya terpilih untuk dipresentasikan, presentasinya harus
 
 Beberapa ketentuan penting:
 
-- Jurnal direkomendasikan tidak lebih lama dari 5 tahun, kecuali ada alasan konkret. Contoh alasan yang valid: paper tersebut adalah sintesis paling mutakhir yang ada di topik itu, atau review yang lebih baru hanya melakukan pooling meta-analisis tanpa mengelompokkan evidence berdasarkan level tertentu (misalnya level IYCF stunting framework), sehingga paper yang lebih lama justru lebih relevan untuk dibahas.
+- Jurnal direkomendasikan tidak lebih lama dari 5 tahun, kecuali ada alasan konkret. Contoh alasan yang valid: paper tersebut adalah sintesis paling mutakhir yang ada di topik itu, atau review yang lebih baru hanya melakukan pooling meta-analisis tanpa mengelompokkan evidence berdasarkan level tertentu (misalnya level stunting framework dari *Infant and Young Child Feeding*), sehingga paper yang lebih lama justru lebih relevan untuk dibahas. Atau dalam skenario kedua, kedua paper dapat dijadikan satu presentasi untuk kemudian dibandingkan hasilnya, hubungi pengurus (Kak Raisa / Kak Kemal) apabila ada keraguan mengenai hal ini.
 
 - Untuk jurnal terindeks SINTA, hanya boleh menggunakan jurnal-jurnal SINTA 1 - 3.
 
-## Setelah tema / topik bulanan disepakati, saya mulai dari mana apabila saya ingin mengajukan jurnal pilihan saya untuk didiskusikan?
+## Setelah topik bulanan disepakati, saya mulai dari mana apabila saya ingin mengajukan jurnal pilihan saya untuk didiskusikan?
 
 Contoh: Tema bulan ini adalah *health equity*, tapi Kak, saya gatau apa-apa tentang *health equity*, kalau saya ingin mengajukan jurnal pilihan saya untuk menjadi bahan diskusi nanti, saya harus mulai search dari mana?
 
@@ -99,49 +99,51 @@ Kalau kamu sudah dapat gambaran / sudah familiar dengan tema bulanan yang akan d
 
 - **Scopus AI**, tools AI yang membuatkan search keystrings dari kata kunci yang ingin kamu cari.
 
-- Apabila kamu sudah dapat keystrings untuk Scopus dari Scopus AI, kamu dapat copy keystrings tersebut ke AI favorit kamu dan minta dibuatkan keystrings search untuk PubMed (sesuai dengan MeSH terms).
+- Apabila kamu sudah dapat *keystrings* untuk Scopus dari Scopus AI, kamu dapat *copy keystrings* tersebut ke AI favorit kamu dan minta dibuatkan keystrings search untuk PubMed (sesuai dengan MeSH terms).
 
 Selebihnya, cara mencari masih cukup fleksibel tergantung kenyamanan masing-masing member, belum ada satu cara baku yang wajib diikuti. Kalau kamu punya cara lain yang menurutmu lebih works, boleh banget dicoba dan nanti di-share ke member lain.
 
-::: {.callout-note}
+::: callout-note
 Bagian ini masih dalam proses pengembangan dan akan dilengkapi lebih lanjut setelah konsultasi dengan dosen metode penelitian.
 :::
 
-## Saya dapat gap menarik dari meet-up bulanan, terus saya harus ngapain untuk mengembangkannya menjadi ide tesis yang dapat dipresentasikan? {#konfirmasi-gap}
+## Saya dapat *gap* menarik dari meet-up bulanan, terus saya harus ngapain untuk mengembangkannya menjadi ide tesis yang dapat dipresentasikan? {#konfirmasi-gap}
 
-Setelah kamu menemukan gap yang menarik dari diskusi bulanan, langkah selanjutnya adalah memastikan gap tersebut masih relevan (belum banyak diisi penelitian lain) sebelum kamu kembangkan lebih lanjut jadi ide tesis.
+Setelah kamu menemukan *gap* yang menarik dari diskusi bulanan, langkah selanjutnya adalah memastikan *gap* tersebut masih relevan (belum banyak diisi penelitian lain) sebelum kamu kembangkan lebih lanjut jadi ide tesis.
 
 Salah satu workflow yang ditunjukkan Pusinfokesmas FKM UI saat konsultasi adalah sebagai berikut:
 
-1.  **Search di Scopus** menggunakan kata kunci/topik terkait gap yang kamu identifikasi.
+1.  **Search di Scopus** menggunakan kata kunci/topik terkait *gap* yang kamu identifikasi.
 
-2.  **Extract metadata** dari hasil pencarian tersebut (data seperti judul, abstrak, author, tahun, citation, dll).
+2.  **Extract metadata** dari hasil pencarian tersebut (data seperti judul, abstrak, *author*, tahun, *citation*, dll).
 
-3.  **Masukkan metadata ke tools bibliometric** untuk membangun network graph dari publikasi-publikasi tersebut.
+3.  **Masukkan metadata ke tools** `bibliometrix` (ini adalah sebuah package di R) untuk membangun network graph dari publikasi-publikasi tersebut.
 
 4.  **Lihat network graph yang terbentuk**, garis yang tipis/jarang antar-node mengindikasikan area yang kurang diteliti, ini bisa jadi sinyal awal bahwa gap yang kamu identifikasi memang masih terbuka.
 
-5.  **Pindahkan citation data ke Zotero**, lalu dari sana extract full text dari paper-paper yang relevan.
+5.  **Hubungkan API AI favorit kamu ke** `bibliometrix`. Setelah API AI dihubungkan ke `bibliometrix` teman-teman dapat menanyakan AI mengenai interpretasi hasil bibliometric dari *search* yang telah dilakukan (misalnya menjelaskan pola network graph, tren tema dari waktu ke waktu, atau cluster co-citation). Catatan: ini bekerja di level metadata / pola publikasi, bukan isi *full text*.
 
-6.  **Upload seluruh full text ke NotebookLM.** Setelah semua full text ter-upload, kamu bisa langsung bertanya ke NotebookLM terkait gap yang teridentifikasi, atau informasi lain dari kumpulan (corpus) hasil pencarian tersebut.
+6.  **Pindahkan citation data ke Zotero**, lalu dari sana extract full text dari paper-paper yang relevan.
+
+7.  **Upload seluruh full text ke NotebookLM.** Setelah semua full text ter-upload, kamu bisa langsung bertanya ke NotebookLM terkait gap yang teridentifikasi, atau informasi lain dari kumpulan (corpus) hasil pencarian tersebut. Dengan NotebookLM baru teman-teman dapat menanyakan isi konten *full text.*
 
 Beberapa kebiasaan yang berguna saat mengonfirmasi gap:
 
-- **Catat search string dan tanggal pencarianmu.** Saat kamu mengklaim sebuah gap masih terbuka, kamu perlu bisa menjelaskan dasar klaim tersebut, hasil pencarian bisa berubah seiring waktu, jadi catatan ini penting supaya pencarianmu bisa diulang atau dijelaskan, baik ke sesama member saat stress-test maupun ke pembimbing nanti.
+- **Catat search string dan tanggal pencarianmu.** Saat kamu mengklaim sebuah gap masih terbuka, kamu perlu bisa menjelaskan dasar klaim tersebut, hasil pencarian bisa berubah seiring waktu, jadi catatan ini penting supaya pencarianmu bisa diulang atau dijelaskan, baik ke sesama *member* saat *stress-test* maupun ke pembimbing nanti.
 
-- **Setelah boolean search, bisa dilanjut dengan semantic search platform** (Elicit/Consensus) untuk menjaring paper yang mungkin terlewat karena memakai istilah berbeda dari kata kunci yang kamu susun, relevan di sini karena klaim "gap masih terbuka" jadi lebih kuat kalau pencarianmu sudah cukup menyeluruh. Perhatikan juga catatan cakupan database di [Tips Pencarian Jurnal](#tips-pencarian-jurnal), paper yang tidak terindeks di Semantic Scholar bisa membuat area yang sebenarnya sudah diteliti terlihat seperti gap yang masih terbuka.
+- **Setelah boolean search, bisa dilanjut dengan semantic search platform** (Elicit/Consensus) untuk menjaring paper yang mungkin terlewat karena memakai istilah berbeda dari kata kunci yang kamu susun, relevan di sini karena klaim "*gap* masih terbuka" jadi lebih kuat kalau pencarianmu sudah cukup menyeluruh. Perhatikan juga catatan cakupan database di [Tips Pencarian Jurnal](#tips-pencarian-jurnal), paper yang tidak terindeks di Semantic Scholar bisa membuat area yang sebenarnya sudah diteliti terlihat seperti *gap* yang masih terbuka.
 
-::: {.callout-note}
-**Ini bukan satu-satunya cara.** Workflow bibliometric/network graph/NotebookLM di atas adalah salah satu pendekatan yang lebih teknis untuk konfirmasi gap, bukan satu-satunya jalan, dan tidak wajib diikuti persis seperti ini. Menemukan dan mengembangkan gap secara intuitif dari bacaan dan diskusi juga sama validnya, terutama di tahap-tahap awal berpikir.
+::: callout-note
+**Ini bukan satu-satunya cara.** Workflow bibliometric / network graph / NotebookLM di atas adalah salah satu pendekatan yang lebih teknis untuk konfirmasi gap, bukan satu-satunya jalan, dan tidak wajib diikuti persis seperti ini. Menemukan dan mengembangkan *gap* secara intuitif dari bacaan dan diskusi juga sama validnya, terutama di tahap-tahap awal berpikir.
 
-Detail teknis pemakaian tools di atas (bibliometric, network graph, NotebookLM) tidak dijabarkan lebih lanjut di sini karena Pusinfokesmas FKM UI berencana membuat short course khusus untuk workflow ini. Kalau kamu tertarik mendalami cara pakainya, hubungi pengurus (Kak Raisa / Kak Kemal) untuk memfasilitasi sesi bersama Pusinfo, salah satu fungsi klub ini memang untuk memfasilitasi akses ke resource kursus literasi.
+Detail teknis pemakaian tools di atas (bibliometric, network graph, NotebookLM) tidak dijabarkan lebih lanjut di sini karena Pusinfokesmas FKM UI berencana membuat *short course* khusus untuk *workflow* ini. Kalau kamu tertarik mendalami cara pakainya, hubungi pengurus (Kak Raisa / Kak Kemal) untuk memfasilitasi sesi bersama Pusinfo, salah satu fungsi klub ini memang untuk memfasilitasi akses ke *resource* kursus literasi.
 
-Bagian intuitif / non-teknis dari proses ini (bagaimana mengembangkan gap dari insight diskusi tanpa tools, dan menyusun argumentasi penelitian yang bagus) masih dalam proses pengembangan dan akan dilengkapi lebih lanjut setelah konsultasi dengan dosen metode penelitian.
+Bagian intuitif / non-teknis dari proses ini (bagaimana mengembangkan *gap* dari *insight* diskusi tanpa tools, dan menyusun argumentasi penelitian yang bagus) masih dalam proses pengembangan dan akan dilengkapi lebih lanjut setelah konsultasi dengan dosen.
 :::
 
 # Rubric Presentasi Jurnal / Ide Tesis {#rubric-presentasi}
 
-::: {.callout-note}
+::: callout-note
 Rubric ini masih dalam proses pengembangan bersama dosen. Kategori di bawah adalah kerangka awal yang sudah bisa dipakai sebagai panduan presentasi, poin detail di masing-masing kategori akan ditambahkan/direvisi secara bertahap. Tidak semua poin wajib ada di setiap presentasi; sesuaikan dengan jenis paper/ide yang dibawakan.
 :::
 
@@ -149,9 +151,9 @@ Satu hal yang berlaku untuk semua jenis presentasi: **jelaskan terminologi yang 
 
 ## Untuk Presentasi Jurnal
 
-Poin-poin yang sebaiknya di-cover saat presentasi paper:
+Poin-poin yang sebaiknya di-*cover* saat presentasi paper:
 
-- **Identitas paper**, judul, author, jurnal, tahun terbit, dan kenapa kamu memilih paper ini. *(belum ada detail, akan dilengkapi)*
+- **Identitas paper**, judul, *author*, jurnal, tahun terbit, dan kenapa kamu memilih paper ini. *(belum ada detail, akan dilengkapi)*
 
 - **Latar belakang & konteks**, masalah apa yang diangkat paper ini, dan kenapa itu penting di bidangnya. *(belum ada detail, akan dilengkapi)*
 
@@ -161,11 +163,11 @@ Poin-poin yang sebaiknya di-cover saat presentasi paper:
 
 - **Temuan utama**, hasil pokoknya apa, bukan semua angka, tapi yang menjawab pertanyaan penelitiannya. *(belum ada detail, akan dilengkapi)*
 
-- **Appraisal / penilaian kritis**, seberapa kuat/valid temuannya? Apakah metodenya sesuai dengan pertanyaan penelitiannya? Apakah kesimpulan penulis didukung datanya? *(belum ada detail, akan dilengkapi)*
+- ***Appraisal*** **/ penilaian kritis**, seberapa kuat / valid temuannya? Apakah metodenya sesuai dengan pertanyaan penelitiannya? Apakah kesimpulan penulis didukung datanya? *(belum ada detail, akan dilengkapi)*
 
-- **Limitasi & gap**, keterbatasan yang diakui penulis, dan keterbatasan lain yang kamu lihat sendiri. *(belum ada detail, akan dilengkapi)*
+- **Limitasi & *gap***, keterbatasan yang diakui penulis, dan keterbatasan lain yang kamu lihat sendiri. *(belum ada detail, akan dilengkapi)*
 
-- **Sintesis / implikasi ("so what")**, apa artinya temuan & gap ini untuk bidang penelitian tersebut, atau untuk kemungkinan arah tesis member. *(belum ada detail, akan dilengkapi)*
+- **Sintesis / implikasi ("*so what*")**, apa artinya temuan & *gap* ini untuk bidang penelitian tersebut, atau untuk kemungkinan arah tesis member. *(belum ada detail, akan dilengkapi)*
 
 - **Pertanyaan untuk diskusi**, 2-3 pertanyaan terbuka untuk memantik diskusi bersama member lain. *(belum ada detail, akan dilengkapi)*
 
@@ -173,17 +175,17 @@ Poin-poin yang sebaiknya di-cover saat presentasi paper:
 
 Poin-poin yang sebaiknya di-cover saat presentasi ide tesis:
 
-- **Gap yang diidentifikasi**, gap apa, ketemu dari mana (diskusi bulanan, pencarian sendiri, dll). *(belum ada detail, akan dilengkapi)*
+- ***Gap*** **yang diidentifikasi**, *gap* apa, ketemu dari mana (diskusi bulanan, pencarian sendiri, dll). *(belum ada detail, akan dilengkapi)*
 
-- **Bukti bahwa gap ini masih terbuka**, apa dasarnya kamu yakin gap ini belum banyak diisi penelitian lain (lihat [konfirmasi gap](#konfirmasi-gap)). *(belum ada detail, akan dilengkapi)*
+- **Bukti bahwa *gap* ini masih terbuka**, apa dasarnya kamu yakin *gap* ini belum banyak diisi penelitian lain (lihat [konfirmasi gap](#konfirmasi-gap)). *(belum ada detail, akan dilengkapi)*
 
-- **Sintesis / implikasi ("so what")**, kenapa gap ini penting, siapa yang diuntungkan kalau gap ini diisi. *(belum ada detail, akan dilengkapi)*
+- **Sintesis / implikasi ("*so what*")**, kenapa *gap* ini penting, siapa yang diuntungkan kalau *gap* ini diisi. *(belum ada detail, akan dilengkapi)*
 
-- **Pertanyaan penelitian (draft)**, kalau gap ini dijadikan tesis, pertanyaan penelitiannya kira-kira apa. *(belum ada detail, akan dilengkapi)*
+- **Pertanyaan penelitian (*draft*)**, kalau gap ini dijadikan tesis, pertanyaan penelitiannya kira-kira apa. *(belum ada detail, akan dilengkapi)*
 
 - **Rencana metodologi (kasar)**, desain seperti apa yang kira-kira cocok untuk menjawab pertanyaan tersebut. *(belum ada detail, akan dilengkapi)*
 
-- **Feasibility**, apakah realistis dikerjakan dalam timeline tesis (akses data, sumber daya, waktu, izin etik, dll). *(belum ada detail, akan dilengkapi)*
+- **Feasibility**, apakah realistis dikerjakan dalam *timeline* tesis (akses data, sumber daya, waktu, izin etik, dll). *(belum ada detail, akan dilengkapi)*
 
 - **Antisipasi kelemahan**, bagian mana dari ide ini yang kamu sendiri masih ragu atau merasa paling lemah. *(belum ada detail, akan dilengkapi)*
 
@@ -195,7 +197,7 @@ Boleh banget. Formatnya bebas, PPT, catatan, atau langsung buka PDF papernya sam
 
 Beberapa catatan:
 
-- **Tetap disarankan ada sesuatu yang bisa dilihat bersama**, misalnya share screen PDF papernya, atau satu tabel/gambar kunci dari paper tersebut. Ini bukan soal formalitas, tapi supaya member lain lebih mudah mengikuti, terutama saat membahas metode atau angka.
+- **Tetap disarankan ada sesuatu yang bisa dilihat bersama**, misalnya share screen PDF papernya, atau satu tabel / gambar kunci dari paper tersebut. Ini bukan soal formalitas, tapi supaya member lain lebih mudah mengikuti, terutama saat membahas metode atau angka.
 
 - **Tanpa PPT bukan berarti tanpa persiapan**, yang dikurangi adalah beban bikin slide, bukan pemahaman terhadap papernya. Kamu tetap perlu paham paper yang kamu ajukan, karena kamu yang akan memandu diskusinya nanti.
 
