@@ -38,3 +38,6 @@ rsconnect/
 /.quarto/
 *_files/
 *.html
+
+**/*.quarto_ipynb
+/_site/
