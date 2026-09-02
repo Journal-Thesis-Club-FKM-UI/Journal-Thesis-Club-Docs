@@ -1,0 +1,13 @@
+project:
+  type: website
+
+website:
+  title: "Journal & Thesis Club"
+  navbar:
+    left:
+      - href: Journal-Thesis-Club-Handbook.qmd
+        text: Handbook
+
+format:
+  html:
+    theme: cosmo
