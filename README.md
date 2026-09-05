@@ -1,5 +1,7 @@
 # Journal & Thesis Club Docs
 
+📋 **Baru gabung?** Mulai dari [Member Handbook](https://Journal-Thesis-Club-FKM-UI.github.io/Journal-Thesis-Club-Docs/Journal-Thesis-Club-Handbook.html)
+
 Repository ini berisi dokumen-dokumen Journal & Thesis Club FKM UI, seperti member handbook dan (nantinya) catatan-catatan lainnya.
 
 ## Program ini ngapain aja sih?
@@ -21,4 +23,8 @@ Harapannya, di akhir program ini, teman-teman yang masih bingung mau riset apa a
 
 - 🏛 **Kursus literasi:** program ini memfasilitasi pelatihan bareng Pusinfo soal pencarian & pengelolaan literatur (database jurnal, reference manager, teknik searching yang efektif, dan tools lainnya)
 
-📋 **Baru gabung?** Mulai dari [Member Handbook](https://Journal-Thesis-Club-FKM-UI.github.io/Journal-Thesis-Club-Docs/Journal-Thesis-Club-Handbook.html)
+## Resources Lainnya
+
+- 🗂️ PPT & Full Text Jurnal (Google Drive) — *coming soon*
+
+- 🗓️ Jadwal Kegiatan Bulanan — *coming soon*
