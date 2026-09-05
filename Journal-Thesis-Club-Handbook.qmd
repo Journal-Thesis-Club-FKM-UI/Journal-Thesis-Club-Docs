@@ -11,9 +11,17 @@ date-modified: today
 
 # Teknis Pelaksanaan
 
-1.  Pertama dipilih beberapa topik bidang penelitian (contoh: *health equity*, penyakit tidak menular, dsb.) berdasarkan minat masing-masing member. Kemudian topik-topik pilihan tersebut akan di-*spin* / di-*voting*. Topik yang terpilih akan menjadi topik journal pada bulan itu.
+1.  Dipilih tema bidang penelitian (contoh: health equity) berdasarkan minat masing-masing member. Kemudian tema bulanan dipilih dengan cara voting / di-spin. Tema tersebut akan menjadi tema journal bulan tersebut.
 
-2.  Setelah topik bulanan dipilih, member dapat mulai mencari journal pilihan mereka, lihat bagian [Tips Pencarian Journal](#tips-pencarian-jurnal)
+    ::: {.callout-note #pemilihan-tema}
+    **Catatan soal pemilihan tema:** karena member klub ini datang dari berbagai program studi, latar belakang, dan ketertarikan, tema bulanan sebaiknya berupa **payung besar (*umbrella*)**, bukan topik sempit. Cek dengan pertanyaan: *"apakah member lain, dari latar belakang manapun, bisa membayangkan paper yang relevan di bawah tema ini?"* Kalau ya, tema itu cocok jadi tema bulanan bersama.
+
+    Kalau sebuah tema ternyata cuma relevan buat sebagian kecil member (misalnya "preeklampsia", relevan untuk yang berminat di kespro/epid, tapi tidak untuk yang lain), itu tandanya tema tersebut kurang tepat jadi tema bulanan bersama. Tema semacam ini lebih cocok jadi **topik pilihan pribadi** saat kamu mengajukan *paper* pilihan sendiri untuk paper bulanan yang dibahas (lihat [Tips Pencarian Jurnal](#tips-pencarian-jurnal)), bukan tema bulanan yang dipaksakan untuk seluruh klub.
+
+    Contoh tema umbrella yang cenderung cocok: *health equity, health systems/policy, social determinants of health, patient safety & quality of care, health communication, digital health.*
+    :::
+    
+2.  Setelah tema bulanan dipilih, member dapat mulai mencari journal pilihan mereka, lihat bagian [Tips Pencarian Journal](#tips-pencarian-jurnal)
 
     - Catatan: member yang ingin mengajukan *paper* pilihan mereka untuk dipresentasikan di *meet-up* (sebagai *paper* bulanan yang didiskusikan) tentunya harus cukup paham *paper* tersebut, karena mereka yang akan mempresentasikan dan meng-*trigger* diskusi nanti.
 
@@ -23,7 +31,7 @@ date-modified: today
 
 5.  Pada saat *meet-up* bulanan, setiap member yang mengajukan *paper* mempresentasikan *paper*, dan kemudian didiskusikan bersama dengan semua member yang hadir.
 
-6.  Dalam diskusi *paper*, tentunya terdapat juga *section limitation*, *existing gap*, dan *further research implication*. Diharapkan setiap member yang presentasi dapat juga menyertakan *section-section* ini di presentasi, baik yang teridentifikasi dalam *paper* yang dibahas, atau berdasarkan sintesis atau kesimpulan masing-masing member yang presentasi. Hal ini diharapkan agar setiap pembahasan journal menghasilkan pertanyaan lebih lanjut bagi para member, yang nantinya dapat digunakan untuk topik tesis.
+6.  Dalam diskusi *paper*, tentunya terdapat juga *section limitation*, *existing gap*, dan *further research implication*. Diharapkan setiap member yang presentasi dapat juga menyertakan *section-section* ini di presentasi, baik yang teridentifikasi dalam *paper* yang dibahas, atau berdasarkan sintesis atau kesimpulan masing-masing member yang presentasi. Hal ini diharapkan agar setiap pembahasan journal menghasilkan pertanyaan lebih lanjut bagi para member, yang nantinya dapat digunakan untuk ide tesis.
 
 ## Kak, saya tidak presentasi bulan ini, saya ngapain aja pas *meet-up*? {#peran-peserta}
 
@@ -47,19 +55,21 @@ Kak, jurnal / ide tesis saya terpilih untuk dipresentasikan, presentasinya harus
 
 Beberapa ketentuan penting:
 
-- Jurnal direkomendasikan tidak lebih lama dari 5 tahun, kecuali ada alasan konkret. Contoh alasan yang valid: *paper* tersebut adalah sintesis paling mutakhir yang ada di topik itu, atau review yang lebih baru hanya melakukan *pooling* meta-analisis tanpa mengelompokkan evidence berdasarkan level tertentu (misalnya level stunting framework dari *Infant and Young Child Feeding*), sehingga *paper* yang lebih lama justru lebih relevan untuk dibahas. Atau dalam skenario kedua, kedua *paper* dapat dijadikan satu presentasi untuk kemudian dibandingkan hasilnya, hubungi pengurus (Kak Raisa / Kak Kemal) apabila ada keraguan mengenai hal ini.
+- Jurnal direkomendasikan tidak lebih lama dari 5 tahun, kecuali ada alasan konkret. Contoh alasan yang valid: *paper* tersebut adalah sintesis paling mutakhir yang ada di tema itu, atau review yang lebih baru hanya melakukan *pooling* meta-analisis tanpa mengelompokkan evidence berdasarkan level tertentu (misalnya level stunting framework dari *Infant and Young Child Feeding*), sehingga *paper* yang lebih lama justru lebih relevan untuk dibahas. Atau dalam skenario kedua, kedua *paper* dapat dijadikan satu presentasi untuk kemudian dibandingkan hasilnya, hubungi pengurus (Kak Raisa / Kak Kemal) apabila ada keraguan mengenai hal ini.
 
 - Untuk jurnal terindeks SINTA, hanya boleh menggunakan jurnal-jurnal SINTA 1 - 3.
 
-## Setelah topik bulanan disepakati, saya mulai dari mana apabila saya ingin mengajukan jurnal pilihan saya untuk didiskusikan?
+## Setelah tema bulanan disepakati, saya mulai dari mana apabila saya ingin mengajukan jurnal pilihan saya untuk didiskusikan?
 
-Contoh: Tema bulan ini adalah *health equity*, tapi Kak, saya gatau apa-apa tentang *health equity*, kalau saya ingin mengajukan jurnal pilihan saya untuk menjadi bahan diskusi nanti, saya harus mulai *search* dari mana?
+Contoh: tema bulan ini adalah *health equity*, tapi Kak, saya gatau apa-apa tentang *health equity*, kalau saya ingin mengajukan jurnal pilihan saya untuk menjadi bahan diskusi nanti, saya harus mulai *search* dari mana?
 
-Kalau kamu belum familiar sama sekali dengan tema bulanan, coba mulai dari ***systematic review*** **atau meta-analysis (SR/MA)** yang paling baru di topik tersebut. Kenapa dari sini? Karena SR / MA biasanya merangkum banyak penelitian sekaligus, jadi kamu bisa dapat gambaran topik ini sedang membahas apa saja, tanpa harus baca satu-satu *paper* aslinya dulu. Dari situ biasanya akan lebih kelihatan bagian mana yang menarik buat kamu dalami dan ajukan sebagai bahan diskusi.
+Ingat bedanya tema dan topik, lihat [catatan di bagian Teknis Pelaksanaan soal pemilihan tema](#pemilihan-tema). Tema bulanan itu payung besar yang sama untuk semua member, misalnya *health equity*, sedangkan topik adalah bagaimana kamu menyempitkannya sesuai minat atau latar belakangmu sendiri. Contoh, kalau kamu tertarik di kedokteran gigi, topikmu di bawah tema *health equity* bisa jadi kesenjangan akses layanan kesehatan gigi, temanya tetap sama dengan member lain, tapi topik pencarianmu sudah lebih spesifik ke bidangmu.
+
+Kalau kamu belum familiar sama sekali dengan tema bulanan, coba mulai dari *systematic review* atau *meta-analysis* (SR/MA) yang paling baru di tema tersebut. Kenapa dari sini? Karena SR/MA biasanya merangkum banyak penelitian sekaligus, jadi kamu bisa dapat gambaran tema ini sedang membahas apa saja, tanpa harus baca satu-satu *paper* aslinya dulu. Dari situ biasanya akan lebih kelihatan bagian mana yang menarik buat kamu dalami dan ajukan sebagai bahan diskusi.
 
 Cara sederhananya:
 
-1.  *Search* di Pubmed atau Scopus dengan tema + kata kunci seperti "systematic review" atau "meta-analysis" (contoh: `health equity systematic review`).
+1.  *Search* di Pubmed atau Scopus dengan tema dan kata kunci seperti "systematic review" atau "meta-analysis". Kalau kamu belum tahu topikmu, mulai dari tema saja (contoh: `health equity systematic review`). Kalau kamu sudah tahu topikmu, misalnya kedokteran gigi, kamu bisa langsung menggabungkan tema dan topik (contoh: `health equity dental care access systematic review`).
 
 2.  Baca abstrak dari beberapa SR/MA yang muncul, lihat sub-topik apa saja yang sering dibahas.
 
@@ -103,7 +113,7 @@ Kalau kamu sudah dapat gambaran / sudah familiar dengan tema bulanan yang akan d
 
 Selebihnya, cara mencari masih cukup fleksibel tergantung kenyamanan masing-masing member, belum ada satu cara baku yang wajib diikuti. Kalau kamu punya cara lain yang menurutmu lebih *works*, boleh banget dicoba dan nanti di-*share* ke member lain.
 
-::: callout-note
+::: {.callout-note}
 Bagian ini masih dalam proses pengembangan dan akan dilengkapi lebih lanjut setelah konsultasi dengan dosen metode penelitian.
 :::
 
@@ -133,7 +143,7 @@ Beberapa kebiasaan yang berguna saat mengonfirmasi *gap*:
 
 - **Setelah boolean search, bisa dilanjut dengan platform *semantic search*** (Elicit/Consensus) untuk menjaring *paper* yang mungkin terlewat karena memakai istilah berbeda dari kata kunci yang kamu susun, relevan di sini karena klaim "*gap* masih terbuka" jadi lebih kuat kalau pencarianmu sudah cukup menyeluruh. Perhatikan juga catatan cakupan database di [Tips Pencarian Jurnal](#tips-pencarian-jurnal), *paper* yang tidak terindeks di Semantic Scholar bisa membuat area yang sebenarnya sudah diteliti terlihat seperti *gap* yang masih terbuka.
 
-::: callout-note
+::: {.callout-note}
 **Ini bukan satu-satunya cara.** *Workflow bibliometric* / *network graph* / NotebookLM di atas adalah salah satu pendekatan yang lebih teknis untuk konfirmasi *gap*, bukan satu-satunya jalan, dan tidak wajib diikuti persis seperti ini. Menemukan dan mengembangkan *gap* secara intuitif dari bacaan dan diskusi juga sama validnya, terutama di tahap-tahap awal berpikir.
 
 Detail teknis pemakaian tools di atas (*bibliometric*, *network graph*, NotebookLM) tidak dijabarkan lebih lanjut di sini karena Pusinfokesmas FKM UI berencana membuat kursus literasi khusus untuk *workflow* ini. Kalau kamu tertarik mendalami cara pakainya, hubungi pengurus (Kak Raisa / Kak Kemal) untuk memfasilitasi sesi bersama Pusinfo, salah satu fungsi klub ini memang untuk memfasilitasi akses ke *resource* kursus literasi.
@@ -143,7 +153,7 @@ Bagian intuitif / non-teknis dari proses ini (bagaimana mengembangkan *gap* dari
 
 # *Rubric* Presentasi Jurnal / Ide Tesis {#rubric-presentasi}
 
-::: callout-note
+::: {.callout-note}
 *Rubric* ini masih dalam proses pengembangan bersama dosen. Kategori di bawah adalah kerangka awal yang sudah bisa dipakai sebagai panduan presentasi, poin detail di masing-masing kategori akan ditambahkan/direvisi secara bertahap. Tidak semua poin wajib ada di setiap presentasi; sesuaikan dengan jenis *paper* / ide yang dibawakan.
 :::
 
