@@ -25,7 +25,7 @@ date-modified: today
 
     - Catatan: member yang ingin mengajukan *paper* pilihan mereka untuk dipresentasikan di *meet-up* (sebagai *paper* bulanan yang didiskusikan) tentunya harus cukup paham *paper* tersebut, karena mereka yang akan mempresentasikan dan meng-*trigger* diskusi nanti.
 
-3.  Bagi member yang ingin mengajukan *paper* pilihan mereka sebagai *paper* diskusi bulanan dan mempresentasikannya, member dapat menyerahkan *paper* ke Kak Raisa / Kak Kemal.
+3.  Bagi member yang ingin mengajukan *paper* pilihan mereka sebagai *paper* diskusi bulanan dan mempresentasikannya, member dapat menyerahkan *paper* ke Kak Kemal (atau Kak Azzika kalau Kemal sedang tidak bisa dihubungi).
 
 4.  Dipilih *paper* yang akan didiskusikan di *meet-up* melalui *spin*.
 
@@ -55,7 +55,7 @@ Kak, jurnal / ide tesis saya terpilih untuk dipresentasikan, presentasinya harus
 
 Beberapa ketentuan penting:
 
-- Jurnal direkomendasikan tidak lebih lama dari 5 tahun, kecuali ada alasan konkret. Contoh alasan yang valid: *paper* tersebut adalah sintesis paling mutakhir yang ada di tema itu, atau review yang lebih baru hanya melakukan *pooling* meta-analisis tanpa mengelompokkan evidence berdasarkan level tertentu (misalnya level stunting framework dari *Infant and Young Child Feeding*), sehingga *paper* yang lebih lama justru lebih relevan untuk dibahas. Atau dalam skenario kedua, kedua *paper* dapat dijadikan satu presentasi untuk kemudian dibandingkan hasilnya, hubungi pengurus (Kak Raisa / Kak Kemal) apabila ada keraguan mengenai hal ini.
+- Jurnal direkomendasikan tidak lebih lama dari 5 tahun, kecuali ada alasan konkret. Contoh alasan yang valid: *paper* tersebut adalah sintesis paling mutakhir yang ada di tema itu, atau review yang lebih baru hanya melakukan *pooling* meta-analisis tanpa mengelompokkan evidence berdasarkan level tertentu (misalnya level stunting framework dari *Infant and Young Child Feeding*), sehingga *paper* yang lebih lama justru lebih relevan untuk dibahas. Atau dalam skenario kedua, kedua *paper* dapat dijadikan satu presentasi untuk kemudian dibandingkan hasilnya, hubungi pengurus (Kak Kemal, atau Kak Azzika kalau Kemal sedang tidak bisa dihubungi) apabila ada keraguan mengenai hal ini.
 
 - Untuk jurnal terindeks SINTA, hanya boleh menggunakan jurnal-jurnal SINTA 1 - 3.
 
@@ -146,7 +146,7 @@ Beberapa kebiasaan yang berguna saat mengonfirmasi *gap*:
 ::: {.callout-note}
 **Ini bukan satu-satunya cara.** *Workflow bibliometric* / *network graph* / NotebookLM di atas adalah salah satu pendekatan yang lebih teknis untuk konfirmasi *gap*, bukan satu-satunya jalan, dan tidak wajib diikuti persis seperti ini. Menemukan dan mengembangkan *gap* secara intuitif dari bacaan dan diskusi juga sama validnya, terutama di tahap-tahap awal berpikir.
 
-Detail teknis pemakaian tools di atas (*bibliometric*, *network graph*, NotebookLM) tidak dijabarkan lebih lanjut di sini karena Pusinfokesmas FKM UI berencana membuat kursus literasi khusus untuk *workflow* ini. Kalau kamu tertarik mendalami cara pakainya, hubungi pengurus (Kak Raisa / Kak Kemal) untuk memfasilitasi sesi bersama Pusinfo, salah satu fungsi klub ini memang untuk memfasilitasi akses ke *resource* kursus literasi.
+Detail teknis pemakaian tools di atas (*bibliometric*, *network graph*, NotebookLM) tidak dijabarkan lebih lanjut di sini karena Pusinfokesmas FKM UI berencana membuat kursus literasi khusus untuk *workflow* ini. Kalau kamu tertarik mendalami cara pakainya, hubungi pengurus (Kak Kemal atau Kak Azzika kalau Kemal sedang tidak bisa dihubungi) untuk memfasilitasi sesi bersama Pusinfo, salah satu fungsi klub ini memang untuk memfasilitasi akses ke *resource* kursus literasi.
 
 Bagian intuitif / non-teknis dari proses ini (bagaimana mengembangkan *gap* dari *insight* diskusi tanpa *tools*, dan menyusun argumentasi penelitian yang bagus) masih dalam proses pengembangan dan akan dilengkapi lebih lanjut setelah konsultasi dengan dosen.
 :::
